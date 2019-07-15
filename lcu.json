@@ -1,0 +1,14 @@
+{ 
+    "templates": {
+        "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+        "scope": "@lcu-hammerstrike",
+        "workspace": "lcu-hammerstrike"
+    },
+    "config": {
+      "wc": ["wc/lcu-hammerstrike.lcu.js"],
+      "solutions": {},
+      "elements": {},
+      "flux": {},
+      "dependencies": {}
+    }
+}
